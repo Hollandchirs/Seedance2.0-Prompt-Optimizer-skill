@@ -12,7 +12,7 @@ Distilled from **400+ real high-scoring prompts** into 18 production-ready templ
 |---|---|---|
 | Input | Detailed prompt engineering | One sentence of intent |
 | Output | Hit-or-miss results | Production-grade prompts |
-| Platform pass rate | ~60–70% | **~99%** |
+| Platform pass rate | ~20–30% | **~99%** |
 | Copyright handling | Manual | Auto-substituted, visually faithful |
 | Restricted words | Triggers blocks | Auto-routed around Seedance's filter list |
 
